@@ -4,7 +4,7 @@ A Volvo app Ui coded by Sulaiman Hamza Abdulwahab [abumuftee2.0](https://github.
 
 ## Quick view
 
-![volvo ui video]([Volvo.mp4](https://github.com/AbuMuftee/volvo))
+https://github.com/AbuMuftee/volvo/assets/84699634/dd9d6fe3-d5b4-44c9-9d87-4417e6c82b50
 
 This project is a starting point for a Flutter application.
 
